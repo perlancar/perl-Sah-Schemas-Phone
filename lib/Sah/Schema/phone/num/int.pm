@@ -1,5 +1,7 @@
 package Sah::Schema::phone::num::int;
 
+use strict;
+
 # AUTHORITY
 # DATE
 # DIST
